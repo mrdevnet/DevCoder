@@ -1,0 +1,24 @@
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.pdb
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.ConvertType\obj\Debug\ResolveAssemblyReference.cache
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.ConvertType\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DevNETCoder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.dll
+D:\DevNET\DevNETCoder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DevNETCoder\DevNET.ConvertType\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.dll
+D:\DevNET\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\bin\Debug\DevNET.ConvertType.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.csprojResolveAssemblyReference.cache
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\Debug\DevNET.ConvertType.pdb

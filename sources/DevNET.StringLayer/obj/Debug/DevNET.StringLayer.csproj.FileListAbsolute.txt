@@ -1,0 +1,35 @@
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.pdb
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.pdb
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.pdb
+D:\DevNET\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.dll
+D:\DevNET\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.pdb
+D:\DevNET\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.dll
+D:\DevNET\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DevNETCoder\DevNET.StringLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.dll
+D:\DevNET\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.csprojResolveAssemblyReference.cache
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.StringLayer.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\bin\Debug\DevNET.ConvertType.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.csprojResolveAssemblyReference.cache
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.StringLayer\obj\Debug\DevNET.StringLayer.pdb

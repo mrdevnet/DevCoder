@@ -1,0 +1,28 @@
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.dll
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.pdb
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.dll
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.pdb
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.dll
+D:\DevNET\DevNETCoder\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.dll
+D:\DevNET\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.pdb
+D:\DevNET\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.dll
+D:\DevNET\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.pdb
+D:\DevNET\DevNETCoder\DevNET.UI\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.dll
+D:\DevNET\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.csprojResolveAssemblyReference.cache
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.UI.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\bin\Debug\DevNET.ConvertType.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.csprojResolveAssemblyReference.cache
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.UI\obj\Debug\DevNET.UI.pdb

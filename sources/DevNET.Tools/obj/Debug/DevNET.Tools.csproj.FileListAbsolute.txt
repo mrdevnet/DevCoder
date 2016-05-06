@@ -1,0 +1,24 @@
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.Tools\bin\Debug\DevNET.Tools.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.Tools\bin\Debug\DevNET.Tools.pdb
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.Tools\obj\Debug\DevNET.Tools.dll
+D:\CongViec\DemoDevNET\DevNET Coder\DevNET.Tools\obj\Debug\DevNET.Tools.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.Tools\bin\Debug\DevNET.Tools.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.Tools\bin\Debug\DevNET.Tools.pdb
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.Tools\obj\Debug\DevNET.Tools.dll
+D:\DevNET\DemoDevNET\DevNET Coder\DevNET.Tools\obj\Debug\DevNET.Tools.pdb
+D:\DevNET\DevNETCoder\DevNET.Tools\bin\Debug\DevNET.Tools.dll
+D:\DevNET\DevNETCoder\DevNET.Tools\bin\Debug\DevNET.Tools.pdb
+D:\DevNET\DevNETCoder\DevNET.Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\DevNET\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.dll
+D:\DevNET\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\bin\Debug\DevNET.Tools.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\bin\Debug\DevNET.Tools.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\bin\Debug\DevNET.Tools.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\bin\Debug\DevNET.Tools.pdb
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.csprojResolveAssemblyReference.cache
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.dll
+D:\My\Works\DevNET\Source\My Source\DevNETCoder\DevNET.Tools\obj\Debug\DevNET.Tools.pdb

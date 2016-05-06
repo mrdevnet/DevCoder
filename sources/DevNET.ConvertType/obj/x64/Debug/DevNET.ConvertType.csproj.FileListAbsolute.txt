@@ -1,0 +1,4 @@
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\bin\x64\Debug\DevNET.ConvertType.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\bin\x64\Debug\DevNET.ConvertType.pdb
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\x64\Debug\DevNET.ConvertType.dll
+D:\Works\DevNET\Source\My Source\DevNETCoder\DevNET.ConvertType\obj\x64\Debug\DevNET.ConvertType.pdb
